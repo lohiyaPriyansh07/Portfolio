@@ -1108,7 +1108,13 @@ textarea.input {
 .footer__link:hover {
     color: var(--skin-color);
 }
-
+.info__icons2{
+    color:var(--skin-color);
+    transition: .3s;
+}
+.info__icons2:hover{
+    transform: translateY(.25rem);
+}
 /*=============== SCROLL UP ===============*/
 ::-webkit-scrollbar {
     width: .2rem;
@@ -1399,6 +1405,10 @@ textarea.input {
         align-items: center;
         justify-content: center;
         text-align: center;
+    }
+
+    .info__icons{
+        transform: rotate(270deg);
     }
 }
 
