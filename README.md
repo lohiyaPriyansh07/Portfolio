@@ -2,7 +2,12 @@
 Portfolio website built 
 
 
-This was a website built to showcase my technical skills, web design skills.
+This was a website built to showcase my  
+* technical skills 
+* web design skills 
+* my experiences
+* my education
+
 
 ### Technologies Used
 
@@ -12,5 +17,6 @@ This was a website built to showcase my technical skills, web design skills.
 * Git
 * GitHub
 
-## Website link
+## Website link 
+https://lohiyapriyansh07.github.io/Portfolio/
 
