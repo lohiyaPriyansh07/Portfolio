@@ -426,6 +426,9 @@ input {
 }
 
 /*===== About Section =====*/
+.coding{
+    color: var(--skin-color);
+}
 .about__container {
     margin-left: 50px;
     grid-template-columns: repeat(2, 1fr);
@@ -447,16 +450,17 @@ input {
 }
 
 .about__description {
-    text-align: justify;
+    text-align: left;
     padding-right: 6rem;
     margin-bottom: var(--mb-2);
 }
 
 .about__info {
     display: grid;
-    grid-template-columns: repeat(3, 120px);
+    grid-template-columns: repeat(3, 170px);
     column-gap: .5rem;
     margin-bottom: var(--mb-3);
+    
 }
 
 .about__box {
@@ -485,6 +489,7 @@ input {
 
 .about__subtitle {
     font-size: var(--smaller-font-size);
+    color: var(--skin-color);
 
 }
 
