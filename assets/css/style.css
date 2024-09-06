@@ -1337,6 +1337,7 @@ textarea.input {
     }
 
     .footer__subtitle {
+        display: none;
         justify-content: center;
         text-align: center;
     }
@@ -1414,6 +1415,17 @@ textarea.input {
 
     .info__icons{
         transform: rotate(270deg);
+    }
+
+    .about__info {
+
+        grid-template-columns: repeat(3, 100px);
+    
+
+        
+    }
+    .about__subtitle {
+        display: none;
     }
 }
 
